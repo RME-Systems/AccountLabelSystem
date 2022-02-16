@@ -1,0 +1,1 @@
+Hey there, we hope you like this addon! For the perefect integration guide, please refer to the [docs](https://mofhydev.ml/docs/account-labeling-system.php). If you get stuck, feel free to create a new Issue. Developed by `MofhyDevs`!
